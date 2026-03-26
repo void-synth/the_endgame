@@ -14,7 +14,7 @@ export const App = () => {
             A minimal, focused toolkit designed to get you from idea to execution with zero
             friction. Download the installer and start in seconds.
           </p>
-          <a className="btn-primary" href="/application_installer.zip" download>
+          <a className="btn-primary" href="/index.zip" download>
             Download Installer
           </a>
           <p className="meta">Compatible with Windows 10 and later.</p>
